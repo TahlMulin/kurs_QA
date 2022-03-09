@@ -4,3 +4,13 @@
 
 def anyfunc(x):
   pass
+11111111
+int
+float
+string
+list
+set
+frosenset
+bool
+None
+dict
