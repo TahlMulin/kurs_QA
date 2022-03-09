@@ -2,5 +2,7 @@ lst = [i for i in range(100)]
 
 print(*lst, sep='\n')
 
-while True:
-  print('Hello')
+num = int(input())
+while num:
+	print('Hello')
+	num = int(input())
